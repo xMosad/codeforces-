@@ -1,9 +1,9 @@
 /*
- * Codeforces Round #178 (Div. 2) -- > A. Shaass and Oskols
- * link                : https://codeforces.com/contest/294/problem/A
- * accepted submission : https://codeforces.com/contest/294/submission/79329668
+ * Codeforces Round #640 (Div. 2) -- > A. Sum of Round Numbers
+ * link                : https://codeforces.com/contest/1352/problem/A
+ * accepted submission : https://codeforces.com/contest/1352/submission/79781148
  * by                  : Abdelrhman mosad
- * date                : 8 / 5 / 2020
+ * date                : 14 / 5 / 2020
 */
 
 int main(void) {
@@ -45,4 +45,3 @@ int main(void) {
 
 
 }
-
